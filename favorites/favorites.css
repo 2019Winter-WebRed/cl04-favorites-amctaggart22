@@ -1,0 +1,22 @@
+/* 
+* Annie McTaggart
+* Due Date
+* Project Name and Description
+*/
+
+*/ The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+img{ width: 700px; height: 500px;}
+#wegmans { width: 700px; height: 400px;}
+#teaparty { width: 600px; height: 400px;}
+figure { float: right;}
+#paisleyfigure { float: right;}
